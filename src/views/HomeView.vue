@@ -10,7 +10,6 @@
           Show Completed Only
         </label>
       </div>
-      <p>Coach Chek Consulatancy</p>
     </footer>
   </div>
 </template>
@@ -115,8 +114,6 @@ export default {
   align-items: center; /* Align items vertically */
   }
   .filter-options {
-    display: block;
-    float: left;
-    margin-bottom: 100px;
+    margin-bottom: 35px;
   }
 </style>
